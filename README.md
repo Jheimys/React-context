@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+ <h1 align=center> REACT CONTEXT</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bem vindo! 👋
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
+![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-In the project directory, you can run:
+Obrigado pela visita e fique a vontade!
 
-### `yarn start`
+Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Descrição do Projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O React Context é um projeto com ênfase em desenvolvimento web utilizando diversos frameworks JavaScript. O objetivo principal é simular
+um E-commerce. O React foi a principal tecnologia usada no projeto, nele busquei aprimorar meus conhecimentos de criação e gerenciamento
+de estados globais com ContextAPI.
 
-### `yarn test`
+# Status do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> :trophy: Finalizado ::trophy:
 
-### `yarn build`
+# Funcionalidades do projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:hammer: `Funcionalidade 1`: cadastro de colaboradores em sua Equipe.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organo-gif-maker.gif'>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:hammer: `Funcionalidade 2`: Criar novas Equipes.
 
-### `yarn eject`
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIInovotime.gif'>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+:hammer: `Funcionalidade 3`: Fexibilidade para criar novos estilos para as equipes
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIIstyle.gif'>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Tecnologias:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+:heavy_check_mark: HTML
 
-## Learn More
+:heavy_check_mark:CSS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:heavy_check_mark: JavaScript
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:heavy_check_mark: React
 
-### Code Splitting
+# Acesso ao projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:link: https://organo-ii.vercel.app/
 
-### Analyzing the Bundle Size
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![img](https://github.com/Jheimys.png?size=100)
 
-### Making a Progressive Web App
+James Bezerra Bassani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Have fun building!** 🚀
